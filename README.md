@@ -14,7 +14,7 @@
 
 ## 📊 About Me
 
-I'm a passionate **Student Developer** from India, currently exploring and building amazing projects with modern technologies! 🚀
+I'm a passionate ** Developer** from India, currently exploring and building amazing projects with modern technologies! 🚀
 
 - 💻 **Tech Content Creator** on YouTube, Instagram & Medium
 - ☁️ Cloud enthusiast with focus on **AWS** technologies  
